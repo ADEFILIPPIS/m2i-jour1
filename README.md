@@ -1,4 +1,4 @@
-# m2i-jour1
+# m2i-jour1 --EIDITON GITHUB
 
-Ceci est mon fichier README
+Ceci est mon fichier README sur GITHUB
 Nouveau changement 
